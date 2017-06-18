@@ -12,6 +12,7 @@ Starter de Projetos utilizando Teste unitário/TDD em Javascript ES6.
 #### Instalando o Babel
 
 1 - ```npm install --save-dev babel-cli babel-preset-es2015``` -> [Mais informações - npm](https://www.npmjs.com/package/babel-preset-es2015)
+<br/>
 2 - [Link de Configuração - Jest/Babel](https://github.com/facebook/jest#additional-configuration)
 
 ### Rodando o Test
@@ -40,4 +41,4 @@ No windows recomendo utilizar o PowerShell
 
 [Aprendendo ES6](http://babeljs.io/learn-es2015/)
 
-[Babel Envs][http://babeljs.io/docs/plugins/preset-env/]
+[Babel Envs](http://babeljs.io/docs/plugins/preset-env/)
