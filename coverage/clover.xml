@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1497769020729" clover="3.2.0">
-  <project timestamp="1497769020729" name="All files">
+<coverage generated="1497882205792" clover="3.2.0">
+  <project timestamp="1497882205792" name="All files">
     <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="5" coveredelements="4" complexity="0" loc="2" ncloc="2" packages="1" files="2" classes="2">
-      <file name="calculator.js" path="C:\Projetos\tdd\jest\components\calculator.js">
+      <file name="calculator.js" path="/Users/plenitude/Projetos/tdd/TDD-ES6-Starter/components/calculator.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
         <line num="6" count="1" type="stmt"/>
       </file>
-      <file name="sum.js" path="C:\Projetos\tdd\jest\components\sum.js">
+      <file name="sum.js" path="/Users/plenitude/Projetos/tdd/TDD-ES6-Starter/components/sum.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
       </file>
